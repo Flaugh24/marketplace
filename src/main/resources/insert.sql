@@ -1,0 +1,1 @@
+insert into product(name, price) values ('asdfasf', 2.2);
